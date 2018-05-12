@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '43238'
     url: http://www.gutenberg.org/2009/agents/43238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45695#The-Memorials-of-the-Hamlet-of-Knightsbridgewith-Notices-of-its-Immediate-Neighbourhood
 gutenberg_issued: '2014-05-19'
 gutenberg_type: Text
 identifiers:
